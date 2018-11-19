@@ -2,5 +2,5 @@
 2)http://help.learn.co/technical-support/local-environment/mac-osx-manual-environment-set-up
 3)
 ```
-gem install activeadmin pundit sidekiq rspec learn-co bundler pry nokogiri devise cloudinary carrierwave hotloader elasticsearch simple_form money-rails dotenv omniauth 
+gem install activeadmin pundit sidekiq rspec learn-co bundler pry nokogiri devise cloudinary carrierwave hotloader elasticsearch simple_form money-rails dotenv omniauth hub
 ```
